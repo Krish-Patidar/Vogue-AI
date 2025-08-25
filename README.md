@@ -24,6 +24,16 @@ An search engine that allows users to discover and compare clothing and accessor
 
 ---
 
+## **Our Solution**
+Unified platform for browsing clothing & accessories from various retailers
+AI-driven personalization for style & wardrobe suggestions
+Visual search (upload photo → find similar outfits instantly)
+Smart comparison tools for features & prices
+Retailer-focused tools for product visibility & analytics
+Integrated chatbot for instant shopping & styling assistance
+
+---
+
 ## **Project Overview**
 - Users can **search and filter products** by brand, price, category, size, and color.
 - **AI-powered product comparison** analyzes style, color coordination, trendiness, price-value ratio, and occasion suitability.
