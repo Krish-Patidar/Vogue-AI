@@ -100,6 +100,11 @@ Integrated chatbot for instant shopping & styling assistance
 
 ---
 
+## **Note**
+- This link (https://vogueai.netlify.app/) only contains a basic frontend demo of our project. You cannot perform any backend actions here because the full project was developed using Java Servlets + Python integration. Since the application involves a large number of interconnected files, it was not feasible to deploy the entire backend within this repository.
+
+---
+
 ## **Contact**
 **ByteSquad Team – Hackwave 2.0, CDGI Indore**  
 Website: `https://yourfashionsearchapp.com`  
