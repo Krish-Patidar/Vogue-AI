@@ -1,0 +1,62 @@
+category,color,gender,occasion,bottoms,layer,shoes,accessory,bottoms_img,layer_img,shoes_img,accessory_img,recommended_for_height
+shirt,white,unisex,smart casual,navy chinos,navy blazer,brown loafers,brown_leather_belt,images/navy_chinos.jpg,images/navy_blazer.jpg,images/brown_loafers.jpg,images/brown_leather_belt.jpg,all
+shirt,white,male,business casual,charcoal trousers,charcoal blazer,black_oxfords,silver_watch,images/charcoal_trousers.jpg,images/charcoal_blazer.jpg,images/black_oxfords.jpg,images/silver_watch.jpg,all
+shirt,white,female,smart casual,high_waist_beige_trousers,light_beige_blazer,nude_heels,minimal_necklace,images/beige_trousers.jpg,images/light_beige_blazer.jpg,images/nude_heels.jpg,images/minimal_necklace.jpg,short/average
+shirt,beige,unisex,smart casual,olive_chinos,beige_overshirt,white_sneakers,leather_watch,images/olive_chinos.jpg,images/beige_overshirt.jpg,images/white_sneakers.jpg,images/leather_watch.jpg,all
+shirt,black,unisex,business casual,gray_trousers,gray_blazer,black_oxfords,black_tie,images/gray_trousers.jpg,images/gray_blazer.jpg,images/black_oxfords.jpg,images/black_tie.jpg,tall
+shirt,blue,unisex,smart casual,khaki_chinos,beige_blazer,brown_brogues,leather_belt,images/khaki_chinos.jpg,images/beige_blazer.jpg,images/brown_brogues.jpg,images/leather_belt.jpg,all
+shirt,navy,unisex,smart casual,light_gray_trousers,navy_blazer,brown_loafers,leather_watch,images/light_gray_trousers.jpg,images/navy_blazer.jpg,images/brown_loafers.jpg,images/leather_watch.jpg,all
+shirt,gray,unisex,casual,denim_jeans,denim_jacket,white_sneakers,canvas_backpack,images/denim_jeans.jpg,images/denim_jacket.jpg,images/white_sneakers.jpg,images/canvas_backpack.jpg,all
+shirt,black,male,casual,indigo_jeans,leather_jacket,black_sneakers,sunglasses,images/indigo_jeans.jpg,images/leather_jacket.jpg,images/black_sneakers.jpg,images/sunglasses.jpg,average/tall
+shirt,red,unisex,party,black_jeans,black_blazer,white_sneakers,metal_chain,images/black_jeans.jpg,images/black_blazer.jpg,images/white_sneakers.jpg,images/metal_chain.jpg,all
+shirt,black,female,smart casual,grey_trousers,blazer,black_heels,handbag,images/grey_trousers.jpg,images/blazer.jpg,images/black_heels.jpg,images/handbag.jpg,average
+shirt,white,female,business casual,black_pencil_skirt,navy_blazer,black_pumps,classic_watch,images/black_pencil_skirt.jpg,images/fnavy_blazer.jpg,images/black_pumps.jpg,images/classic_watch.jpg,short/average
+shirt,black,male,party,slim_fit_black_trousers,velvet_blazer,chelsea_boots,bracelet,images/slim_fit_black_trousers.jpg,images/velvet_blazer.jpg,images/chelsea_boots.jpg,images/bracelet.jpg,average/tall
+shirt,black,female,party,leather_skirt,sequin_jacket,strappy_heels,clutch_bag,images/leather_skirt.jpg,images/sequin_jacket.jpg,images/strappy_heels.jpg,images/clutch_bag.jpg,average
+kurti,red,female,ethnic,leggings,dupatta,juttis,bangles,images/red_kurti.jpg,images/leggings.jpg,images/kdupatta.jpg,images/juttis.jpg,all
+t-shirt,white,male,smart casual,grey_trousers,navy_blazer,black_oxfords,leather_belt,images/grey_trousers.jpg,images/navy_blazer.jpg,images/black_oxfords.jpg,images/leather_belt.jpg,average
+t-shirt,black,male,business casual,charcoal_trousers,grey_blazer,derby_shoes,classic_watch,images/charcoal_trousers.jpg,images/grey_blazer.jpg,images/derby_shoes.jpg,images/classic_watch.jpg,tall
+t-shirt,black,male,party,jeans,leather_jacket,sneakers,chain,images/jeans.jpg,images/leather_jacket.jpg,images/sneakers.jpg,images/chain.jpg,all
+t-shirt,white,female,party,black_skirt,red_jacket,heels,clutch_bag,images/black_skirt.jpg,images/red_jacket.jpg,images/heels.jpg,images/clutch_bag.jpg,short/average
+t-shirt,black,female,smart casual,beige_trousers,white_blazer,ankle_boots,handbag,images/beige_trousers.jpg,images/white_blazer.jpg,images/ankle_boots.jpg,images/handbag.jpg,average
+t-shirt,white,female,business casual,navy_pencil_skirt,grey_blazer,black_pumps,pearl_necklace,images/navy_pencil_skirt.jpg,images/fgrey_blazer.jpg,images/black_pumps.jpg,images/pearl_necklace.jpg,all
+
+
+blazer,navy,unisex,business casual,charcoal_trousers,—,black_oxfords,pocket_square,images/charcoal_trousers.jpg,images/navy_blazer.jpg,images/black_oxfords.jpg,images/pocket_square.jpg,all
+suit,grey,male,business casual,matching_trousers,grey_blazer,black_oxfords,silver_watch,images/grey_trousers.jpg,images/grey_blazer.jpg,images/black_oxfords.jpg,images/silver_watch.jpg,all
+suit,navy,male,business casual,matching_trousers,navy_blazer,black_oxfords,briefcase,images/navy_trousers.jpg,images/navy_blazer.jpg,images/black_oxfords.jpg,images/briefcase.jpg,all
+jeans,indigo,unisex,casual,white_oxford,navy_blazer,brown_loafers,leather_belt,images/white_oxford.jpg,images/navy_blazer.jpg,images/brown_loafers.jpg,images/leather_belt.jpg,all
+jeans,black,unisex,casual,white_tee,olive_bomber,black_sneakers,canvas_backpack,images/white_tee.jpg,images/olive_bomber.jpg,images/black_sneakers.jpg,images/canvas_backpack.jpg,average/tall
+jacket,olive,unisex,casual,black_jeans,—,black_boots,leather_bracelet,images/black_jeans.jpg,images/olive_jacket.jpg,images/black_boots.jpg,images/leather_bracelet.jpg,tall
+jacket,denim,unisex,casual,black_jeans,—,white_sneakers,belt,images/black_jeans.jpg,images/denim_jacket.jpg,images/white_sneakers.jpg,images/belt.jpg,all
+coat,camel,unisex,smart casual,dark_denim,—,chelsea_boots,wool_scarf,images/dark_denim.jpg,images/camel_coat.jpg,images/chelsea_boots.jpg,images/wool_scarf.jpg,tall
+sweater,beige,unisex,casual,navy_chinos,—,white_sneakers,scarf,images/navy_chinos.jpg,images/beige_sweater.jpg,images/white_sneakers.jpg,images/scarf.jpg,short/average
+hoodie,gray,unisex,casual,black_joggers,—,running_shoes,cap,images/black_joggers.jpg,images/gray_hoodie.jpg,images/running_shoes.jpg,images/cap.jpg,all
+skirt,black,female,smart casual,white_blouse,beige_cardigan,ankle_boots,gold_necklace,images/white_blouse.jpg,images/beige_cardigan.jpg,images/ankle_boots.jpg,images/gold_necklace.jpg,short/average
+dress,red,female,party,—,—,black_heels,silver_clutch,images/black_heels.jpg,images/red_dress.jpg,images/black_heels.jpg,images/silver_clutch.jpg,all
+saree,red,female,ethnic,—,embroidered_blouse,gold_heels,gold_bangles,images/golden_petticoat.jpg,images/embroidered_blouse.jpg,images/gold_heels.jpg,images/gold_bangles.jpg,all
+saree,blue,female,ethnic,—,silver_blouse,heels,silver_bangles,images/silver_petticoat.jpg,images/silver_blouse.jpg,images/heels.jpg,images/silver_bangles.jpg,all
+saree,black,female,party,—,gold_blouse,high_heels,gold_bangles,images/golden_petticoat.jpg,images/gold_blouse.jpg,images/high_heels.jpg,images/gold_bangles.jpg,all
+lehenga,red,female,party,—,embroidered_choli,heels,maang_tikka,images/lehenga_skirt.jpg,images/embroidered_choli.jpg,images/heels.jpg,images/maang_tikka.jpg,all
+lehenga,green,female,party,—,mirror_work_choli,heels,gold_jhumka,images/lehenga_green_skirt.jpg,images/mirror_choli.jpg,images/heels.jpg,images/gold_jhumka.jpg,all
+
+kurti,blue,female,casual,white_leggings,long_shrug,flats,silver_earrings,images/white_leggings.jpg,images/long_shrug.jpg,images/flats.jpg,images/silver_earrings.jpg,all
+kurti,white,female,ethnic,blue_legging,dupatta,jutti,jhumkas,images/blue_legging.jpg,images/dupatta.jpg,images/jutti.jpg,images/jhumkas.jpg,all
+kurti,green,female,casual,black_palazzo,denim_jacket,wedges,oxidized_necklace,images/black_palazzo.jpg,images/denim_jacket.jpg,images/wedges.jpg,images/oxidized_necklace.jpg,all
+
+
+kurta,white,male,ethnic,beige_churidar,—,brown_mojaris,classic_watch,images/beige_churidar.jpg,images/kurta_white.jpg,images/brown_mojaris.jpg,images/classic_watch.jpg,all
+kurta,blue,male,ethnic,white_churidar,—,tan_sandals,beaded_bracelet,images/white_churidar.jpg,images/kurta_blue.jpg,images/tan_sandals.jpg,images/beaded_bracelet.jpg,all
+sherwani,any,male,ethnic,gold_churidar,—,embroidered_mojaris,brooch,images/gold_churidar.jpg,images/sherwani.jpg,images/embroidered_mojaris.jpg,images/brooch.jpg,all
+skirt,beige,female,smart casual,white_blouse,navy_blazer,loafers,leather_bag,images/white_blouse.jpg,images/navy_blazer.jpg,images/loafers.jpg,images/leather_bag.jpg,average/tall
+shirt,pink,male,casual,gray_trousers,denim_jacket,brown_loafers,leather_watch,images/gray_trousers.jpg,images/denim_jacket.jpg,images/brown_loafers.jpg,images/leather_watch.jpg,all
+shirt,purple,male,casual,black_chinos,black_blazer,brown_shoes,bracelet,images/black_chinos.jpg,images/black_blazer.jpg,images/brown_shoes.jpg,images/bracelet.jpg,all
+shirt,yellow,male,casual,dark_blue_jeans,white_jacket,white_sneakers,cap,images/dark_blue_jeans.jpg,images/white_jacket.jpg,images/white_sneakers.jpg,images/cap.jpg,all
+shirt,green,male,smart casual,khaki_trousers,olive_blazer,brown_loafers,watch,images/khaki_trousers.jpg,images/olive_blazer.jpg,images/brown_loafers.jpg,images/watch.jpg,all
+shirt,teal,male,casual,beige_trousers,denim_jacket,brown_shoes,leather_bracelet,images/beige_trousers.jpg,images/denim_jacket.jpg,images/brown_shoes.jpg,images/leather_bracelet.jpg,all
+shirt,maroon,male,smart casual,navy_jeans,gray_blazer,brown_loafers,leather_belt,images/navy_jeans.jpg,images/gray_blazer.jpg,images/brown_loafers.jpg,images/leather_belt.jpg,all
+shirt,orange,male,casual,dark_blue_chinos,denim_jacket,white_sneakers,bracelet,images/dark_blue_chinos.jpg,images/denim_jacket.jpg,images/white_sneakers.jpg,images/bracelet.jpg,all
+jeans,light blue,unisex,casual,white_shirt,denim_jacket,white_sneakers,leather_belt,images/white_shirt.jpg,images/denim_jacket.jpg,images/white_sneakers.jpg,images/leather_belt.jpg,all
+coat,black,unisex,formal,gray_trousers,black_coat,black_boots,scarf,images/gray_trousers.jpg,images/black_coat.jpg,images/black_boots.jpg,images/scarf.jpg,tall
+suit,black,male,formal,matching_trousers,black_blazer,black_oxfords,silk_tie,images/matching_trousers.jpg,images/black_blazer.jpg,images/black_oxfords.jpg,images/silk_tie.jpg,all
+dress,black,female,party,—,—,metallic_heels,statement_earrings,images/metallic_heels.jpg,images/black_dress.jpg,images/metallic_heels.jpg,images/statement_earrings.jpg,all
